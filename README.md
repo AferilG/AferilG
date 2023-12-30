@@ -10,7 +10,9 @@ I've been coding since 12. Started with JavaScript and after that came Python an
 * ✉️  You can contact me at [aferilgame@gmail.com](mailto:aferilgame@gmail.com)
 * 🧠  I'm learning Machine Learning, AI, Linux server management, C++
 
-<a href="https://www.twitch.tv/aferil_" target="_blank" rel="noreferrer"><img
+<a href="https://www.x.com/AferilOfficial" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/aferilofficial?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/><a href="https://www.twitch.tv/aferil_" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/aferil_?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 
 ### Skills
